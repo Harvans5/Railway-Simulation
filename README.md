@@ -1,1 +1,2 @@
 # Railway-Simulation
+This project simulates a railway with multiple stations, trains and passengers. Multiple data structures are utilized for this simulation with the creation of a node and double linked list class, as well as a queue class. The double linked list represents the railway with each node being a station and each station contains queues for its passengers and trains. JUnit test classes were created as well for testing the data structure classes along with a few of the other classes. 
